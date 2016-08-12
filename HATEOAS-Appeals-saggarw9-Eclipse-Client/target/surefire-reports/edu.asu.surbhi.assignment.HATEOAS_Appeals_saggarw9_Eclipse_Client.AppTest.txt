@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.asu.surbhi.assignment.HATEOAS_Appeals_saggarw9_Eclipse_Client.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 sec
